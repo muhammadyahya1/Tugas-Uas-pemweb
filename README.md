@@ -1,6 +1,10 @@
 # Tugas-Uas-pemweb
 
-APLIKASI LOKET ANTRIAN CODEIGNITER 4
+APLIKASI LOKET ANTRIAN CODEIGNITER 4 
+
+DEMO
+
+http://localhost/loket
 
 
 INDEX
