@@ -5,7 +5,7 @@ APLIKASI LOKET ANTRIAN CODEIGNITER 4
 
 INDEX
 
-![Screenshot (175)](https://user-images.githubusercontent.com/81598272/126380481-690c074b-209a-4050-8405-b80fcac2a0ec.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/81598272/126495957-e7038d7a-4721-4196-86de-d5d19c7f8e94.png)
 
 
 AMBIL ANTRIAN 
